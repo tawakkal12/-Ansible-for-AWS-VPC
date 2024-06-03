@@ -1,4 +1,4 @@
-# Project-9: Ansible for AWS VPC
+Ansible for AWS VPC
 
 [*Project Source*](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)
 
